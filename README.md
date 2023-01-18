@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Trevato
 - 👀 I’m interested in artificial intelligence and web technologies
-- 🌱 I’m currently learning autonomous vehicles and design and analysis of algorithms
+- 🌱 I’m currently learning autonomous vehicles and design/analysis of algorithms
 - 📫 Reach me at my [personal website](https://www.trevordobbertin.com)
