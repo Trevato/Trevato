@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Trevato
-- 👀 I’m interested in artificial intelligence and web technologies
+- 📖 Currently reading Chaos: Making A New Science by James Gleick
 - 🌱 Currently looking for a job...
 - 🎯 Reach me at my [personal website](https://trevordobbertin.com)
