@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Trevato
 - 📖 Currently reading Chaos: Making A New Science by James Gleick
-- 🌱 Currently looking for a job...
 - 🎯 Reach me at my [personal website](https://trevordobbertin.com)
