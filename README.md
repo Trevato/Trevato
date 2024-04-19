@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Trevato
 - 🎯 Reach me at my [personal website](https://trevato.dev)
-- 📖 Currently reading Artificial Intelligence by Patrick Henry Winston
+- 📖 Currently reading Chaos by James Gleick
