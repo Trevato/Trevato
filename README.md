@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Trevato
 - 🎯 Reach me at my [personal website](https://trevato.dev)
-- 📖 Currently reading Chaos by James Gleick
+- 📖 Currently reading Psycho-Cybernetics by Maxwell Maltz
