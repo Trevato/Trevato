@@ -1,7 +1,5 @@
 👋 Hey, I'm @Trevato. My corner of the internet begins at [trevato.dev](https://trevato.dev).
 
-I use neovim as my editor. Check out my config: https://github.com/Trevato/nvim
-
 ---
 
 📚 Here are some of my favorite books:
